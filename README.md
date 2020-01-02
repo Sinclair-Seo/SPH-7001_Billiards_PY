@@ -112,29 +112,55 @@
 - [바운딩 기초와 기본배치](https://www.youtube.com/watch?v=Oq5mrljCf4Q&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=33)
     - [투바운딩 / 밀어치기](https://www.youtube.com/watch?v=542tJVmMlAE&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=26)
 - [끌어치기와 밀어치기 잘치는 방법](https://www.youtube.com/watch?v=I7_XY3pD62w&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=27)
-- [먼공 면따기 달인되는 연습방법](https://www.youtube.com/watch?v=ShqniJG299w&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=44)
-- [먼공 회전주고 면따기 달인되는 연습방법](https://www.youtube.com/watch?v=9B_4DnhCvh0&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=45)
-
-- [x] **[초간단 두께 조준법][52]**    
-> (52) 표은호 당구강좌 / 상 / 2019-04-07    
-> 두께    
-
-- [x] [수구 컨트롤 / 두께에 따른 수구 진행 실험](https://www.youtube.com/watch?v=H6eTaq5-4Cc&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=62)
-> (62) 표은호 당구강좌 / 하 / 2019-05-09    
-> 두께, 각도    
-- [프로가 사용하는 안쪽 두께 연습법](https://www.youtube.com/watch?v=fQ7sm9J-HI8&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=70)
 - [1번째 쿠션은 포인트를 향해서 치는 겁니다](https://www.youtube.com/watch?v=j51SO7A87jQ&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=31)
 - [시계방향 팁 VS 중앙라인 팁][32]
 - [3쿠션 초구부터 연속치기 몇개나 치시나요?][68]
     - [당구 4구 3쿠션 초구 포지션 플레이][82]
 
-[32]: <https://www.youtube.com/watch?v=Pvp2aLUwWmE&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=32> "시계방향 팁 VS 중앙라인 팁"
+# 기본
+## 두께
+- [x] [초간단 두께 조준법][52]    
+> (52) 표은호 당구강좌 / 중 / 2019-04-07    
+> 두께    
+> 1/2: 1적구 1/4, 1/3: 큐 선 바깥쪽 1적구 끝, 1/4: 큐 선 안쪽 1적구 끝, 2/3: 큐 선 안쪽 1적구 중앙
+
+- [x] [수구 컨트롤 / 두께에 따른 수구 진행 실험][62]
+> (62) 표은호 당구강좌 / 하 / 2019-05-09   
+> 두께, 각도    
+> 1/2: 1적구 30 / 수구 40, 1/3: 1적구 42 / 수구 30, 1/4: 1적구 48 / 수구
+
+- [x] **[프로가 사용하는 안쪽 두께 연습법][70]**    
+> (70) 표은호 당구강좌 / 상 / 2019-07-23    
+> 두께    
+> 1/2: 10mm, 1/3: 16mm, 1/4: 25mm, 2/3: 큐 선 중앙 1적구 끝
+
+- [x] **[먼공 면따기 달인되는 연습방법][44]**
+> (44) 표은호 당구강좌 / 중 / 2019-03-14    
+> 두께    
+> 공 61.5mm, 수구 1pt 하단 1적구 3pt 상당 30mm 위치
+
+- [x] **[먼공 회전주고 면따기 달인되는 연습방법][45]**
+> (45) 표은호 당구강좌 / 중 / 2019-03-15    
+> 두께    
+> Curve + / Squirt -, 단거리: Squirt 오조준 1mm  빠르게 살짝 잡아주는 Stroke, 중거리: 보이는대로, 장거리: 느린 Stroke 일때 Curve 오조준 15mm / 빠른 Stroke 일때 Curve 오조준 10mm
+
+
+[Markdown Guide(Basic)][md-basic] | [Markdown Guide(Extended)][md-extended]
+
+
+[32]: https://www.youtube.com/watch?v=Pvp2aLUwWmE&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=32 "시계방향 팁 VS 중앙라인 팁"
+
+[44]: https://www.youtube.com/watch?v=ShqniJG299w&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=44 "먼공 면따기 달인되는 연습방법"
+[45]: https://www.youtube.com/watch?v=9B_4DnhCvh0&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=45 "먼공 회전주고 면따기 달인되는 연습방법"
 
 [52]: https://www.youtube.com/watch?v=pNajKZniMjI&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=52 "초간단 두께 조준법"
 
+[62]: https://www.youtube.com/watch?v=H6eTaq5-4Cc&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=62 "수구 컨트롤 / 두께에 따른 수구 진행 실험"
 [68]: https://www.youtube.com/watch?v=dS8FNC9jmTc&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=68 "3쿠션 초구부터 연속치기 몇개나 치시나요?"
+
+[70]: https://www.youtube.com/watch?v=fQ7sm9J-HI8&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=70 "프로가 사용하는 안쪽 두께 연습법"
 
 [82]: https://www.youtube.com/watch?v=2qBP8a87aas&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=82 "당구 4구 3쿠션 초구 포지션 플레이"
 
-
-[Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+[md-basic]: https://www.markdownguide.org/basic-syntax/ "Markdown Guide (기본)"
+[md-extended]: https://www.markdownguide.org/extended-syntax/ "Markdown Guide (확장)"
