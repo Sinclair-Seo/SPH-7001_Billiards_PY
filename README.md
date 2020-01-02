@@ -114,15 +114,27 @@
 - [끌어치기와 밀어치기 잘치는 방법](https://www.youtube.com/watch?v=I7_XY3pD62w&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=27)
 - [먼공 면따기 달인되는 연습방법](https://www.youtube.com/watch?v=ShqniJG299w&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=44)
 - [먼공 회전주고 면따기 달인되는 연습방법](https://www.youtube.com/watch?v=9B_4DnhCvh0&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=45)
-- [ ] [초간단 두께 조준법](https://www.youtube.com/watch?v=pNajKZniMjI&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=52)
-    > 2019-04-07    
-    > 두께
-- [ ] [수구 컨트롤 / 두께에 따른 수구 진행 실험](https://www.youtube.com/watch?v=H6eTaq5-4Cc&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=62)
-    - [프로가 사용하는 안쪽 두께 연습법](https://www.youtube.com/watch?v=fQ7sm9J-HI8&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=70)
+
+- [x] **[초간단 두께 조준법][52]**    
+> (52) 표은호 당구강좌 / 상 / 2019-04-07    
+> 두께    
+
+- [x] [수구 컨트롤 / 두께에 따른 수구 진행 실험](https://www.youtube.com/watch?v=H6eTaq5-4Cc&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=62)
+> (62) 표은호 당구강좌 / 하 / 2019-05-09    
+> 두께, 각도    
+- [프로가 사용하는 안쪽 두께 연습법](https://www.youtube.com/watch?v=fQ7sm9J-HI8&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=70)
 - [1번째 쿠션은 포인트를 향해서 치는 겁니다](https://www.youtube.com/watch?v=j51SO7A87jQ&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=31)
-- [시계방향 팁 VS 중앙라인 팁](https://www.youtube.com/watch?v=Pvp2aLUwWmE&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=32)
-- [3쿠션 초구부터 연속치기 몇개나 치시나요?](https://www.youtube.com/watch?v=dS8FNC9jmTc&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=68)
-    - [당구 4구 3쿠션 초구 포지션 플레이](https://www.youtube.com/watch?v=2qBP8a87aas&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=82)
+- [시계방향 팁 VS 중앙라인 팁][32]
+- [3쿠션 초구부터 연속치기 몇개나 치시나요?][68]
+    - [당구 4구 3쿠션 초구 포지션 플레이][82]
+
+[32]: <https://www.youtube.com/watch?v=Pvp2aLUwWmE&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=32> "시계방향 팁 VS 중앙라인 팁"
+
+[52]: https://www.youtube.com/watch?v=pNajKZniMjI&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=52 "초간단 두께 조준법"
+
+[68]: https://www.youtube.com/watch?v=dS8FNC9jmTc&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=68 "3쿠션 초구부터 연속치기 몇개나 치시나요?"
+
+[82]: https://www.youtube.com/watch?v=2qBP8a87aas&list=PL43b2md03gKfzgJRV8SK060zM0WHpOKqC&index=82 "당구 4구 3쿠션 초구 포지션 플레이"
 
 
 [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
