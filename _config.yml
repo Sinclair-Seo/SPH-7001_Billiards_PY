@@ -28,7 +28,7 @@ twitter_username: sinclairseo
 github_username:  sinclair-seo
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
